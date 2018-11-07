@@ -1,6 +1,7 @@
 # messageApp
 
 a [Sails](http://sailsjs.org) application
-# messageApp
+
+## Comments
 
 Just a draft. Practice.
